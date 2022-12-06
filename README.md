@@ -13,9 +13,9 @@
 
 
 <div align="center">
-<a href="https://github.com/leandrogerolim"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandrogerolim&include_all_commits=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/leandrogerolim"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=leandrogerolim&include_all_commits=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogerolim&layout=compact&theme=blueberry&langs_count=10"/>    
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogerolim&layout=compact&theme=blueberry&langs_count=10"/>    
 </div>
  
 <div align="center">
