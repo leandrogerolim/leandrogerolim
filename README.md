@@ -18,6 +18,7 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogerolim&layout=compact&theme=blueberry&langs_count=10"/>    
 </div>
  
+ ****
 <div align="center">
  
 ![Snake animation](https://github.com/leandrogerolim/leandrogerolim/blob/output/github-contribution-grid-snake.svg)
