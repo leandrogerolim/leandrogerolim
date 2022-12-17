@@ -15,7 +15,7 @@
 <div align="center">
 <a href="https://github.com/leandrogerolim"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=leandrogerolim&include_all_commits=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogerolim&layout=compact&theme=blueberry&langs_count=10"/>  
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogerolim&layout=compact&theme=blueberry&langs_count=12"/>  
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=leandrogerolim&theme=algolia)](https://git.io/streak-stats)
 </div>
